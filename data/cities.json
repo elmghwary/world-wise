@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "c882",
+      "cityName": "Santa Cruz del Retamar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-20T12:15:30.062Z",
+      "notes": "wow",
+      "position": {
+        "lat": "40.164135032284015",
+        "lng": "-4.262695312500001"
+      }
+    },
+    {
+      "id": "2ef7",
+      "cityName": "Fronton",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-20T12:15:40.798Z",
+      "notes": "lamo",
+      "position": {
+        "lat": "43.867196788198854",
+        "lng": "1.40625"
+      }
+    },
+    {
+      "id": "c51a",
+      "cityName": "Lalin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-20T12:15:48.173Z",
+      "notes": "lolala",
+      "position": {
+        "lat": "42.5554723563178",
+        "lng": "-8.129882812500002"
+      }
+    }
+  ]
+}
